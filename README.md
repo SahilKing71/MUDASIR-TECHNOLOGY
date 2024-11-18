@@ -1,7 +1,7 @@
 <p align="center">
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a href="https://github.com/Mudasirking95/TeamMSTBOT95">
-    <img alt=Venocyber docs" height="300" src="https://files.catbox.moe/71pfke.jpg">
+    <img alt=Venocyber docs" height="400" src="https://files.catbox.moe/71pfke.jpg">
   </a>
 </p>
 <p align="center">
