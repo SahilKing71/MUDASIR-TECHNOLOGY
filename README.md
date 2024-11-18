@@ -1,3 +1,5 @@
+<p align="center"><img src="https://profile-counter.glitch.me/{SahilKing71}/count.svg" alt="MUDASIR-TECHNOLOGY:: Visitor's Count" /></p>
+
 <p align="center">
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a href="https://github.com/Mudasirking95/TeamMSTBOT95">
