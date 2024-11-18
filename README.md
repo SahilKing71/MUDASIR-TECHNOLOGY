@@ -1,5 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Mudasirking95/TeamMSTBOT95">
+<a href="https://github.com/Mudasirking95/TeamMSTBOT95">
     <img alt="venocyber docs" height="300" src="https://telegra.ph/file/689064e344f4c43aea555.jpg">
   </a>
 </p>
