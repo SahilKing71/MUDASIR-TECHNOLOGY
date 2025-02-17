@@ -19,3 +19,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a href="https://mudasirmd71-6498e1d58b60.herokuapp.com/"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
   # <a href="https://mudasirmd71-6498e1d58b60.herokuapp.com/"><img title="fork" src="https://img.shields.io/badge/pair code -h?color=darkblue&style=for-the-badge&logo=msi"></a>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/SahilKing71/MUDASIR-TECHNOLOGY"><img
+titel="deployed heruko"
